@@ -1,0 +1,18 @@
+{
+  "name": "devopstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "mocha": "^4.0.1",
+    "mocha-junit-reporter": "^1.15.0",
+    "truffle": "^4.0.0"
+  }
+}
